@@ -9,7 +9,7 @@
 
 ***
 # About Me:
-I am 21 years old. I work at the Institute of Applied Physics in the laboratory of computational diagnostics as a junior researcher. I think my current job does not allow me to develop. I want to find an occupation that will allow not only to develop as a professional, but also to grow as a person and enjoy it. My goal is to gain theoretical knowledge and practical skills in front-end development.
+I am 25 years old. I work at the Institute of Applied Physics in the laboratory of computational diagnostics as a junior researcher. I think my current job does not allow me to develop. I want to find an occupation that will allow not only to develop as a professional, but also to grow as a person and enjoy it. My goal is to gain theoretical knowledge and practical skills in front-end development.
 In my free time I like to ride a bike, listen to music, play table tennis.
 **My strengths:**
 * Diligent
